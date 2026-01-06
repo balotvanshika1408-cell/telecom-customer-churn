@@ -7,10 +7,10 @@ The model helps organizations take proactive steps to improve customer retention
 
 ## Objectives
 
-1.Analyze customer data to understand churn behavior
-2.Build a binary classification model using Logistic Regression
-3.Evaluate model performance using appropriate metrics
-4.Identify customers with high churn probability
+1. Analyze customer data to understand churn behavior
+2. Build a binary classification model using Logistic Regression
+3. Evaluate model performance using appropriate metrics
+4. Identify customers with high churn probability
 
 ## Machine Learning Approach
 
@@ -20,48 +20,48 @@ The model helps organizations take proactive steps to improve customer retention
 
 ## Technologies & Tools
 
-1.Programming Language: Python
-2.Libraries:
-3.NumPy
-4.Pandas
-5.Matplotlib
-6.Seaborn
-7.Scikit-learn
+1. Programming Language: Python
+2. Libraries:
+3. NumPy
+4. Pandas
+5. Matplotlib
+6. Seaborn
+7. Scikit-learn
 
 ## Dataset Description
 
 The dataset contains customer-related information such as:
 
-1.Demographic details
-2.Subscription and service usage
-3.Account information
-4.Churn status (target variable)
+1. Demographic details
+2. Subscription and service usage
+3. Account information
+4. Churn status (target variable)
 
 The dataset is preprocessed to handle missing values, categorical variables, and feature scaling.
 
 ## Project Workflow
 
-1.Data Loading
-2.Exploratory Data Analysis (EDA)
-3.Data Preprocessing
+1. Data Loading
+2. Exploratory Data Analysis (EDA)
+3. Data Preprocessing
      .Handling missing values
      .Encoding categorical features
      .Feature scaling
-4.Model Training using Logistic Regression
+4. Model Training using Logistic Regression
 
-5.Model Evaluation
+5. Model Evaluation
 
-6.Result Interpretation
+6. Result Interpretation
 
  ## Model Evaluation Metrics
 
 The model performance is evaluated using:
 
-1.Accuracy
-2.Precision
-3.Recall
-4.F1-Score
-5.Confusion Matrix
+1. Accuracy
+2. Precision
+3. Recall
+4. F1-Score
+5. Confusion Matrix
 
 These metrics help assess how effectively the model predicts customer churn.
 
