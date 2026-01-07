@@ -48,9 +48,7 @@ The dataset is preprocessed to handle missing values, categorical variables, and
      .Encoding categorical features
      .Feature scaling
 4. Model Training using Logistic Regression
-
 5. Model Evaluation
-
 6. Result Interpretation
 
  ## Model Evaluation Metrics
@@ -66,8 +64,6 @@ The model performance is evaluated using:
 These metrics help assess how effectively the model predicts customer churn.
 
 ## Model Results
-
-![Confusion Matrix](images/Screenshot (1912).png)
 
 The Logistic Regression model successfully classifies customers into churn and non-churn categories. 
 The evaluation metrics indicate that the model performs reasonably well and can assist businesses in identifying high-risk customers for targeted retention strategies.
