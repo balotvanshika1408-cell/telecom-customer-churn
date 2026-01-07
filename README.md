@@ -65,7 +65,9 @@ The model performance is evaluated using:
 
 These metrics help assess how effectively the model predicts customer churn.
 
-## Results
+## Model Results
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 The Logistic Regression model successfully classifies customers into churn and non-churn categories. 
 The evaluation metrics indicate that the model performs reasonably well and can assist businesses in identifying high-risk customers for targeted retention strategies.
